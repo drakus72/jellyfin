@@ -13,3 +13,7 @@ https://github.com/jellyfin/jellyfin/blob/master/unRaid/docker-templates
 Click save than click on Add Container and selectr jellyfin.
 
 Adjust to your paths to your liking and off you go!
+
+**CHANGES**
+Added HTTPs port 8920
+Updated Template repo link
